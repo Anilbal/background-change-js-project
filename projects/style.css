@@ -1,0 +1,27 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 20px;
+}
+h2{
+    color: red;
+}
+.button{
+    height: 70px;
+    width: 100px;
+    border: 1px solid black;
+}
+#grey{
+    background-color: gray;
+}
+#red{
+    background-color: red;
+}
+#blue{
+    background-color: blue;
+}
+#black{
+    background-color: #212121;
+}
